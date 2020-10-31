@@ -1,0 +1,16 @@
+- title: Projects
+  url: /Projects/
+  
+- title: Portfolio
+  url: /Portfolio/
+  submenu:
+    - title: Everything
+      url: /Portfolio/
+    - title: Pixel Art
+      url: /Portfolio/PixelArt
+    - title: Commissions
+      url: /Portfolio/Commissions
+
+- title: Contact
+  url: /Contacts/
+  
