@@ -5,11 +5,20 @@ description: Portfolio
 image: /assets/images/image.png
 url: https://wildleoknight.github.io/
 sidebar_main_text: 
-cover_url: /projects/
+cover_url: /portfolio/
 cover_text: Check my website
-author: Leonardo "WildLeoKnight" Lourenço
+author: WildLeoKnight
 lang: en-US
 logo: /favicon.ico
+twitter:
+  username: wildleoknight
+  card: summary
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/image.png
 
 # Build settings
 remote_theme: wildleoknight/stardust 
