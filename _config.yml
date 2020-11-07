@@ -5,10 +5,11 @@ description: Portfolio
 image: /assets/images/image.png
 url: https://wildleoknight.github.io/
 sidebar_main_text: 
-cover_url: /portfolio/
+home_url: /portfolio/
 cover_text: Check my website
 author: WildLeoKnight
 lang: en-US
+google_analytics: G-0R3J0WP4Y3
 logo: /favicon.ico
 twitter:
   username: wildleoknight
