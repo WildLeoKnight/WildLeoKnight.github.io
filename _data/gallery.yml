@@ -532,7 +532,7 @@
   description:
   linkurl: https://wildleoknight.itch.io/adventurers-scribbles-font
   linktext: "Get it here"
-  category: [ all, pixel-art ]
+  category: [ all, pixel-art, fonts ]
 
 - image: /gallery/deletThisEmote.png
   date: 2020-03-12
@@ -596,7 +596,7 @@
   description:
   linkurl: 
   linktext: 
-  category: [ all, pixel-art, animation ]
+  category: [ all, pixel-art, animations ]
 
 - image: /gallery/PSC 083 Farfetchd.png
   date: 2020-07-09
