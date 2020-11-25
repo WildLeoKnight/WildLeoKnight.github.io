@@ -19,7 +19,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: /assets/images/image.png
+      image: /assets/images/imageLogo.png
 
 # Build settings
 remote_theme: wildleoknight/stardust 
