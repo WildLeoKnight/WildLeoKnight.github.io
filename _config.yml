@@ -3,6 +3,7 @@ title: WildLeoKnight
 tagline: Computer Science Engineer, Pixel Artist, Game Dev
 description: Portfolio
 image: /assets/images/image.png
+lazyload_image: /assets/images/LazyloadAnim.gif
 url: https://wildleoknight.github.io
 sidebar_main_text: 
 home_url: /portfolio/
